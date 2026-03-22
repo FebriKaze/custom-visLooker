@@ -3,7 +3,7 @@
   "organization": "Kinetic Architect",
   "description": "Custom Animated React Chart for KMDI",
   "logoUrl": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg",
-  "packageUrl": "gs://NAMA_BUCKET_KAMU/folder-chart-kamu/",
+  "packageUrl": "https://febrikaze.github.io/custom-visLooker/",
   "devMode": true,
   "components": [
     {
