@@ -1,7 +1,7 @@
 {
   "name": "KMDI Premium Chart",
   "organization": "Kinetic Architect",
-  "description": "Custom Animated React Chart for KMDI",
+  "description": "Custom React Chart",
   "logoUrl": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg",
   "packageUrl": "https://febrikaze.github.io/custom-visLooker/",
   "devMode": true,
