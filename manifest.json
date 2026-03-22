@@ -1,0 +1,18 @@
+{
+  "name": "KMDI Premium Chart",
+  "organization": "Kinetic Architect",
+  "description": "Custom Animated React Chart for KMDI",
+  "logoUrl": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg",
+  "packageUrl": "gs://NAMA_BUCKET_KAMU/folder-chart-kamu/",
+  "devMode": true,
+  "components": [
+    {
+      "id": "kineticChart",
+      "name": "Kinetic React Viz",
+      "resource": {
+        "js": "index.js",
+        "config": "index.json"
+      }
+    }
+  ]
+}
