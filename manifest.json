@@ -3,7 +3,7 @@
   "organization": "Kinetic Architect",
   "description": "Custom React Chart",
   "logoUrl": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg",
-  "packageUrl": "https://febrikaze.github.io/custom-visLooker/",
+  "packageUrl": "https://febrikaze.github.io/custom-visLooker",
   "devMode": true,
   "components": [
     {
